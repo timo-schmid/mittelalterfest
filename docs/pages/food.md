@@ -48,5 +48,3 @@ Zum Dessert: Smores
 * Äpfel
 * Rosinen
 * Butter
-
-

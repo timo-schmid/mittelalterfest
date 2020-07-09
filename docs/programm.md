@@ -13,6 +13,8 @@ permalink: /
 * 21:00 - Abendprogramm
 * 21:00 - Smores
 
+## Samstag
+
 * 08:30 - Morgenessen
 * 12:00 - Mittagessen
 * 15:00 - Nachmittagsprogramm
@@ -20,9 +22,8 @@ permalink: /
 * 21:00 - Dessert (Bratäpfel)
 * 21:30 - Abendprogramm
 
-## Samstag
+## Sonntag
 
 * 10:30 - Morgenessen
 * 11:00 - Aufräumen
 * 13:00 - Abschluss / Verabschiedung
-

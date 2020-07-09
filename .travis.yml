@@ -7,7 +7,7 @@ jobs:
       name: Make Microsite on 2.12.10
       env: TEST="docs"
       install: gem install jekyll -v 4.0.0
-      script: sbt ++2.12.10! microsite/makeMicrosite
+      script: sbt ++2.12.10! microsite/publishMicrosite
 cache:
   directories:
     - $HOME/.m2

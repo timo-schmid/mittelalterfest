@@ -1,0 +1,5 @@
+lazy val `sbt-microsites` = (project in file("."))
+  .settings(moduleName := "sbt-microsites")
+  .settings(pluginSettings: _*)
+  .enablePlugins(JekyllPlugin)
+  .enablePlugins(SbtPlugin)

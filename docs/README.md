@@ -1,6 +1,6 @@
 ---
-layout: docs
-title: Whatever
+layout: home
+title: Mittelalterfest
 permalink: /
 ---
 

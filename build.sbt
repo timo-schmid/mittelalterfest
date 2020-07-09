@@ -7,6 +7,7 @@ lazy val `microsite` = (project in file("."))
     micrositeGithubToken := sys.env.get("GITHUB_TOKEN"),
     micrositeGithubOwner := "timo-schmid",
     micrositeGithubRepo := "mittelalterfest",
+    micrositeBaseUrl := "/mittelalterfest",
     micrositeHomepage := "https://timo-schmid.github.io/mittelalterfest/"
   )
   .enablePlugins(MicrositesPlugin)

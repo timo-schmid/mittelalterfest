@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Essen
-permalink: /pages/food
+permalink: /food
 ---
 
 # Essen

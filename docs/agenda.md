@@ -11,7 +11,7 @@ permalink: /
 * 18:30 - Eintreffen, Einrichten
 * 20:00 - Nachtessen
 * 21:00 - Abendprogramm
-* 21:00 - Smores
+* 21:00 - Dessert (Smores)
 
 ## Samstag
 

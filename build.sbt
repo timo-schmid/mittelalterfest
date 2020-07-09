@@ -13,10 +13,14 @@ lazy val `microsite` = (project in file("."))
     micrositeGitterChannel := false,
     micrositeTheme := "pattern",
     micrositePalette := Map(
-      "brand-primary"         -> "#475c6c",
-      "brand-secondary"       -> "#cd8b62",
-      "brand-tertiary"        -> "#8a8583",
-      "white-color"           -> "#f7efd3"
+      "brand-primary"     -> "#E05236",
+      "brand-secondary"   -> "#3F3242",
+      "brand-tertiary"    -> "#2D232F",
+      "gray-dark"         -> "#453E46",
+      "gray"              -> "#837F84",
+      "gray-light"        -> "#E3E2E3",
+      "gray-lighter"      -> "#F4F3F4",
+      "white-color"       -> "#FFFFFF"
     ),
     micrositeFooterText := Some("Erfreut euch an Brot und Spiel")
   )

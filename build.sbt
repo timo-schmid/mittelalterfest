@@ -10,6 +10,12 @@ lazy val `microsite` = (project in file("."))
     micrositeBaseUrl := "/mittelalterfest",
     micrositeHomepage := "https://timo-schmid.github.io/mittelalterfest/",
     micrositeGithubLinks := false,
-    micrositeGitterChannel := false    
+    micrositeGitterChannel := false,
+    micrositePalette := Map(
+      "brand-primary"         -> "#475c6c",
+      "brand-secondary"       -> "#cd8b62",
+      "brand-tertiary"        -> "#8a8583",
+      "white-color"           -> "#f7efd3"
+    )
   )
   .enablePlugins(MicrositesPlugin)

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Mittelalterfest
+title: Programm
 permalink: /
 ---
 

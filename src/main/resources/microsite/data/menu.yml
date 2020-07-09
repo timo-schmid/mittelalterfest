@@ -1,0 +1,9 @@
+options:
+  - title: Agenda
+    url: agenda
+
+  - title: Essen
+    url: food
+
+  - title: Aktivitäten
+    url: activites

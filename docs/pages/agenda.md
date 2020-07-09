@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Programm
-permalink: /
+permalink: /pages/agenda
 ---
 
 # Programm

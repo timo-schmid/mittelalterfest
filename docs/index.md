@@ -1,16 +1,9 @@
 ---
-layout: home
+layout: homeFeatures
 title: Mittelalterfest
 permalink: /
-technologies:
+features:
  - first:  ["Programm", "Wann was stattfindet"]
  - second: ["Essen", "Was es zu essen gibt"]
  - third:  ["Aktivitäten", "Wie wir uns die Zeit vertreiben"]
 ---
-
-# blah
-
-* [Programm](/mittelalterfest/agenda)
-* [Essen](/mittelalterfest/food)
-* [Aktivitäten](/mittelalterfest/activites)
-

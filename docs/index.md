@@ -6,7 +6,7 @@ permalink: /
 
 # blah
 
-[Programm](agenda)
-[Essen](food)
-[Aktivitäten](activites)
+* [Programm](/mittelalterfest/agenda)
+* [Essen](/mittelalterfest/food)
+* [Aktivitäten](/mittelalterfest/activites)
 

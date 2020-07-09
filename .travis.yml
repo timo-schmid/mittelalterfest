@@ -8,3 +8,9 @@ jobs:
       env: TEST="docs"
       install: gem install jekyll -v 4.0.0
       script: sbt ++2.12.10! docs/makeMicrosite
+cache:
+  directories:
+    - $HOME/.m2
+    - $HOME/.ivy2/cache
+    - $HOME/.sbt
+    - $HOME/.cache/coursier

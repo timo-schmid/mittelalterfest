@@ -6,7 +6,7 @@ permalink: /
 
 # blah
 
-[Programm](/agenda)
-[Essen](/food)
-[Aktivitäten](/activites)
+[Programm](agenda)
+[Essen](food)
+[Aktivitäten](activites)
 

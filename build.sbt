@@ -18,6 +18,6 @@ lazy val `microsite` = (project in file("."))
       "brand-tertiary"        -> "#8a8583",
       "white-color"           -> "#f7efd3"
     ),
-    micrositeFooterText := "Erfreut euch an Brot & Spiel"
+    micrositeFooterText := "Erfreut euch an Brot und Spiel"
   )
   .enablePlugins(MicrositesPlugin)

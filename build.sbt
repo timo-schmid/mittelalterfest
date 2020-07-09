@@ -16,8 +16,8 @@ lazy val `microsite` = (project in file("."))
     micrositeGitterChannel := false,
     micrositeTheme := "light",
     micrositePalette := Map(
-      "brand-primary"         -> "#cd8b62",
-      "brand-secondary"       -> "#eed7a1",
+      "brand-primary"         -> "#eed7a1",
+      "brand-secondary"       -> "#cd8b62",
       "white-color"           -> "#f7efd3"
     ),
     micrositeFooterText := None

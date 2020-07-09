@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Aktivitäten
-permalink: /pages/activities
+permalink: /activities
 ---
 
 # Aktivitäten

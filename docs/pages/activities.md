@@ -13,6 +13,6 @@ Zum Zeitvertreib haben wir uns folgende aktivitäten ausgedacht
 * Axtwerfen
 * Kubb
 * Gesellschaftsspiele
- * Citadels
- * Puerto Rico
- * (eigenes mitbringen)
+** Citadels
+** Puerto Rico
+** (eigenes mitbringen)

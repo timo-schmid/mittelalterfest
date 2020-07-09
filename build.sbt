@@ -8,6 +8,8 @@ lazy val `microsite` = (project in file("."))
     micrositeGithubOwner := "timo-schmid",
     micrositeGithubRepo := "mittelalterfest",
     micrositeBaseUrl := "/mittelalterfest",
-    micrositeHomepage := "https://timo-schmid.github.io/mittelalterfest/"
+    micrositeHomepage := "https://timo-schmid.github.io/mittelalterfest/",
+    micrositeGithubLinks := false,
+    micrositeGitterChannel := false    
   )
   .enablePlugins(MicrositesPlugin)

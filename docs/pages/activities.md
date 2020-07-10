@@ -8,7 +8,6 @@ permalink: activities
 
 Zum Zeitvertreib haben wir uns folgende aktivitäten ausgedacht
 
-* Kochen (Hilfe ist gern gesehen, wird aber nicht erwartet)
 * Pfeilbogenschiessen
 * Axtwerfen
 * Kubb
@@ -16,3 +15,4 @@ Zum Zeitvertreib haben wir uns folgende aktivitäten ausgedacht
   * Citadels
   * Puerto Rico
   * (eigenes mitbringen)
+* Kochen (Hilfe ist gern gesehen, wird aber nicht erwartet)

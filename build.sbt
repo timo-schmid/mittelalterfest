@@ -12,6 +12,7 @@ lazy val `microsite` = (project in file("."))
     micrositeGithubRepo := "mittelalterfest",
     micrositeBaseUrl := "/mittelalterfest",
     micrositeDocumentationUrl := "/mittelalterfest",
+    micrositeDocumentationLabelDescription := "Programm",
     micrositeHomepage := "https://timo-schmid.github.io/mittelalterfest/",
     micrositeOrganizationHomepage := "https://twitter.com/tworrentz",
     micrositeGithubLinks := false,

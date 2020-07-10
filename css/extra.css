@@ -1,0 +1,4 @@
+/* disable the big fat github button */
+#masthead a.masthead-button {
+  display: none !important;
+}

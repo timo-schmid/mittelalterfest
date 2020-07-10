@@ -1,9 +1,9 @@
 options:
   - title: Programm
-    url: agenda
+    url: pages/agenda/
 
   - title: Essen
-    url: food
+    url: pages/food/
 
   - title: Aktivitäten
-    url: activities
+    url: pages/activities/

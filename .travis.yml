@@ -5,7 +5,6 @@ jobs:
   include:      
     - stage: site
       name: Make Microsite on 2.12.10
-      env: TEST="docs"
       install: gem install jekyll -v 4.0.0
       script: sbt ++2.12.10! microsite/publishMicrosite
       after_script: find /home/travis/build/timo-schmid/mittelalterfest/target/site

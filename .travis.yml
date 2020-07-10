@@ -8,6 +8,7 @@ jobs:
       env: TEST="docs"
       install: gem install jekyll -v 4.0.0
       script: sbt ++2.12.10! microsite/publishMicrosite
+      after_script: find /home/travis/build/timo-schmid/mittelalterfest/target/site
 cache:
   directories:
     - $HOME/.m2

@@ -2,7 +2,7 @@ lazy val `microsite` = (project in file("."))
   .settings(
     moduleName := "microsite",
     micrositeName := "Mittelalterfest",
-    micrositeDescription := "Männedorf\n14. - 16. August",
+    micrositeDescription := "Männedorf, 14. - 16. August",
     micrositeDocumentationLabelDescription := "Documentation",
     micrositeAuthor := "Timo",
     micrositeTwitterCreator := "@tworrentz",

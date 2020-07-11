@@ -1,0 +1,13 @@
+/* disable the big fat github button */
+#masthead a.masthead-button {
+  display: none;
+}
+/*
+div.navigation-menu ul li:first-child {
+  visibility: hidden;
+}
+*/
+div.navigation-menu {
+  display: none;
+  visibility: hidden;
+}

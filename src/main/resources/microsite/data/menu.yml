@@ -7,3 +7,6 @@ options:
 
   - title: Aktivitäten
     url: pages/activities
+
+  - title: Kosten
+    url: pages/cost

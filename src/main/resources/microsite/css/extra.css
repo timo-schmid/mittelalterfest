@@ -29,8 +29,8 @@ img {
   border: 2px solid #475D6C;
 }
 #site-main .learn-more-button:hover {
-    background-color: #475D6C;
-    color: #f7efd3;
+  background-color: #475D6C;
+  color: #f7efd3;
 }
 /* logos */
 .features .feature-item .custom-feature-icon .first-feature-icon-wrapper,

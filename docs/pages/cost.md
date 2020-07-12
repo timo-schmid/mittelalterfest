@@ -82,4 +82,11 @@ Schickt mir (Timo) das Geld entweder
 
 oder
 
-* per Überweisung an: Timo Schmid, CH63 0025 0250 7054 0140 M, UBS AG Zürich - Zahlungsgrund: Name + Mittelalterfest
+* per Überweisung an:
+  
+  Timo Schmid
+  
+  CH63 0025 0250 7054 0140 M
+  
+  UBS AG Zürich
+  Zahlungsgrund: Name + Mittelalterfest

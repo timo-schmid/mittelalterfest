@@ -28,7 +28,7 @@ Wer zuerst kommt, hat seinen Platz!
 
 <a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Übernachtung</a>
 
-Bitte ausfüllen bis spätestens Freitag, 17. Juli.
+Bitte ausfüllen bis spätestens Freitag, 24. Juli.
 
 ## Essen
 
@@ -43,7 +43,7 @@ Bitte ausfüllen bis spätestens Freitag, 17. Juli.
 
 <a href="https://forms.gle/4X8q21FVxjqiaXZPA" target="_blank">Zur Anmeldung für das Essen</a>
 
-Bitte ausfüllen bis spätestens Freitag, 17. Juli.
+Bitte ausfüllen bis spätestens Freitag, 24. Juli.
 
 ## Getränke
 

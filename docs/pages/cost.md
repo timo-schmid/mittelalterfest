@@ -28,7 +28,7 @@ Wer zuerst kommt, hat seinen Platz!
 
 ² Für das Laken, pro Person (egal ob 1 oder 2 Nächte)
 
-<a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Übernachtung</a>
+<a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Telinahme und Übernachtung</a> (verbindlich)
 
 Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
 

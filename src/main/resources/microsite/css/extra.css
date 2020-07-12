@@ -3,6 +3,7 @@ body {
   color: #475c6c;
 }
 img {
+  max-width: 100%;
   max-height: 200px;
 }
 .features .feature-item {

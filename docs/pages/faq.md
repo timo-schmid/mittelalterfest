@@ -10,7 +10,7 @@ permalink: pages/faq
 
 Nein. Verkleidung ist nicht notwendig - aber gern gesehen!
 
-## Kann ich vor Ort Zelten?
+## Kann ich vor Ort zelten?
 
 Sicher! Du musst auch keine 5 Franken für das Laken bezahlen!
 

@@ -10,7 +10,7 @@ permalink: pages/faq
 
 Klar, schlags im Gruppenchat vor!
 
-## Muss ich verkleidet kommen
+## Muss ich verkleidet kommen?
 
 Nein. Verkleidung ist nicht notwendig - aber gern gesehen!
 
@@ -18,7 +18,7 @@ Nein. Verkleidung ist nicht notwendig - aber gern gesehen!
 
 Ja, natürlich!
 
-## Was muss ich selbst mitbringen
+## Was muss ich selbst mitbringen?
 
 * Mittelalter-Stimmung!
 * Mittelalterliche Bekleidung (wer möchte)

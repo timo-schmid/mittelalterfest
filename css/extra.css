@@ -1,0 +1,24 @@
+/* Colors */
+body {
+  color: #475c6c;
+}
+.features .feature-item {
+  color: #475c6c;
+}
+#site-main .learn-more-button {
+  color: #475c6c;
+  border: 2px solid #475D6C;
+}
+#site-main .learn-more-button:hover {
+    background-color: #475D6C;
+    color: #f7efd3;
+}
+/* disable the big fat github button */
+#masthead a.masthead-button {
+  display: none;
+}
+/* disable the github link in the top right */
+div.navigation-menu {
+  display: none;
+  visibility: hidden;
+}

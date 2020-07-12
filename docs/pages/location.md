@@ -1,5 +1,34 @@
 ---
 layout: docs
+title: FAQ
+permalink: pages/faq
+---
+
+# Fragen und Antworten
+
+## Muss ich verkleidet kommen
+
+Nein. Verkleidung ist nicht notwendig - aber gern gesehen!
+
+## Kann ich mein eigenes Essen und Getränke mitbringen?
+
+Ja, natürlich!
+
+## Was muss ich selbst mitbringen
+
+* Mittelalter-Stimmung!
+* Mittelalterliche Bekleidung (wer möchte)
+* Schlafsack (falls du übernachtest) - es hat nur Laken
+* Eigene Spiele
+
+## Wo kann ich
+
+## Ist die Homepage open-source?
+
+[Ja, auf GitHub](https://github.com/timo-schmid/mittelalterfest/)
+
+---
+layout: docs
 title: Location
 permalink: pages/location
 ---
@@ -18,19 +47,18 @@ permalink: pages/location
 
 ### Öffentlicher Verkehr
 
-#### via Männedorf
-
 #### via Uetikon
 
-* Zug bis **Uetikon**, dann
-  * **Schnellste Verbindung:** Bus 932 bis **Uetikon Binzigerstrasse**, dann 4 min zu Fuss
-  * Bus 931 bis **Uetikon am See, Brandrain**, dann 21 min zu Fuss
-  * 32 min zu Fuss
+* **Schnellste Verbindung:** Zug bis **Uetikon**, dann Bus 932 bis **Uetikon Binzigerstrasse**, dann 4 min zu Fuss
+* Zug bis **Uetikon**, dann Bus 931 bis **Uetikon am See, Brandrain**, dann 21 min zu Fuss
+* Zug bis **Uetikon**, dann 32 min zu Fuss
 
-* Zug bis **Männedorf, Bahnhof**, dann
-  * Bus 925 (Richtung Meilen, Bahnhof), dann 17 min zu Fuss
-  * Bus 940 (Richtung Oetwil am See) bis **Männedorf, Wiedenbad**, dann 11m zu Fuss
-  * 33 min zu Fuss
+
+#### via Männedorf
+
+* Zug bis **Männedorf, Bahnhof**, dann Bus 925 (Richtung Meilen, Bahnhof), dann 17 min zu Fuss
+* Zug bis **Männedorf, Bahnhof**, dann Bus 940 (Richtung Oetwil am See) bis **Männedorf, Wiedenbad**, dann 11m zu Fuss
+* Zug bis **Männedorf, Bahnhof**, dann 33 min zu Fuss
 
 ### Auto
 

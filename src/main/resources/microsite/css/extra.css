@@ -1,10 +1,25 @@
+/* Nice, free and gothic AF */
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&display=swap');
 /* Colors */
 body {
   color: #475c6c;
+  font-family: 'Grenze Gotisch';
+}
+h1, h2, h3, h4, h5, h6,
+#navigation,
+#masthead,
+#site-main,
+#site-footer,
+.docs #sidebar-wrapper #sidebar-brand,
+.docs #sidebar-wrapper .sidebar-nav .sidebar-nav-item a, .docs #sidebar-wrapper .sidebar-nav .sidebar-nav-item button {
+  font-family: 'Grenze Gotisch';
 }
 img {
   max-width: 100%;
   max-height: 200px;
+}
+#navigation a {
+  color: #475c6c;
 }
 .features .feature-item {
   color: #475c6c;
@@ -18,9 +33,14 @@ img {
     color: #f7efd3;
 }
 /* logos */
+.features .feature-item .custom-feature-icon .first-feature-icon-wrapper,
+.features .feature-item .custom-feature-icon .second-feature-icon-wrapper,
+.features .feature-item .custom-feature-icon .third-feature-icon-wrapper {
+  background-size: 56px 56px;
+}
 .docs #sidebar-wrapper #sidebar-brand a .brand-wrapper,
 #navigation .navbar-wrapper .navigation-brand .custom-feature-icon .icon-wrapper {
-    background-size: 36px 36px;
+  background-size: 36px 36px;
 }
 /* disable the big fat github button */
 #masthead a.masthead-button {

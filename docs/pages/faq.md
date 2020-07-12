@@ -27,7 +27,7 @@ Ja, natürlich!
 
 ## Ist die Homepage open-source?
 
-<a href="https://github.com/timo-schmid/mittelalterfest/">Ja, auf GitHub</a>
+<a href="https://github.com/timo-schmid/mittelalterfest/" target="_blank">Ja, auf GitHub</a>
 
 ## Frage unbeantwortet?
 

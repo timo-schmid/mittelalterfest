@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: Essen
+title: Festschmaus
 permalink: pages/food
 ---
 
-# Essen
+# Festschmaus
 
 Generell gilt: Wir sorgen dafür dass niemand hungern muss. Wir kochen Zmorgen, Zmittag und Znacht!
 

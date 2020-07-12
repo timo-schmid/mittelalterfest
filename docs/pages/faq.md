@@ -6,7 +6,7 @@ permalink: pages/faq
 
 # Fragen und Antworten
 
-## Ich habe noch eine geile idee!
+## Ich habe noch eine geile Idee!
 
 Klar, schlags im Gruppenchat vor!
 

@@ -2,6 +2,9 @@
 body {
   color: #475c6c;
 }
+img {
+  max-height: 200px;
+}
 .features .feature-item {
   color: #475c6c;
 }

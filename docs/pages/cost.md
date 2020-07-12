@@ -17,15 +17,16 @@ Wer zuerst kommt, hat seinen Platz!
 | Anzahl Personen            |        10 |        12 |        15 |        18 |
 |:---------------------------|----------:|----------:|----------:|----------:|
 | Hütte¹                     |     60.00 |     50.00 |     40.00 |     33.35 |
+| Fackeln¹                   |      8.50 |      7.05 |      5.65 |      4.75 |
 | Übernachtung²              |      5.00                                     |
-| Subtotal ohne Übernachtung | **60.00** | **50.00** | **40.00** | **33.35** |
-| Subtotal mit Übernachtung  | **65.00** | **55.00** | **45.00** | **38.35** |
+| Subtotal ohne Übernachtung | **68.00** | **57.05** | **45.65** | **38.10** |
+| Subtotal mit Übernachtung  | **73.00** | **62.05** | **50.65** | **43.10** |
 
-¹ Wir rechnen für jeden Besucher
+¹ Wir rechnen so dass jeder Besucher bezahlt, ob mit oder ohne Übernachtung
 
 ² Für das Laken, pro Person (egal ob 1 oder 2 Nächte)
 
-[Zur Anmeldung für die Übernachtung](https://forms.gle/xVDro3bBDFeF6E1s8)
+<a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Übernachtung</a>
 
 Bitte ausfüllen bis spätestens Freitag, 17. Juli.
 
@@ -40,7 +41,7 @@ Bitte ausfüllen bis spätestens Freitag, 17. Juli.
 
 ³ Exklusive Spanferkel
 
-[Zur Anmeldung für das Essen](https://forms.gle/4X8q21FVxjqiaXZPA)
+<a href="https://forms.gle/4X8q21FVxjqiaXZPA" target="_blank">Zur Anmeldung für das Essen</a>
 
 Bitte ausfüllen bis spätestens Freitag, 17. Juli.
 
@@ -49,7 +50,7 @@ Bitte ausfüllen bis spätestens Freitag, 17. Juli.
 Wir machen einen grossen Einkauf für Bier und Met.
 Wir bringen die Getränke dann mit ans Event, so könnt ihr euch das Schleppen sparen.
 
-[Zur Getränke-Bestellung](https://forms.gle/iD4FJFNALUbtFzcK7)
+<a href="https://forms.gle/iD4FJFNALUbtFzcK7" target="_blank">Zur Getränke-Bestellung</a>
 
 ### Met
 

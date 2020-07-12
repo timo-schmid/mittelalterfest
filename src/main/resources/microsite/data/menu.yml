@@ -10,3 +10,9 @@ options:
 
   - title: Kosten
     url: pages/cost
+    
+  - title: Location
+    url: pages/location
+
+  - title: FAQ
+    url: pages/faq

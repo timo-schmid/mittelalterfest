@@ -6,6 +6,8 @@ permalink: pages/cost
 
 # Kosten
 
+Hier haben wir die Schätzung für die Kosten. Wir erwarten mindestens 10 Teilnehmer, denken aber es ist recht warscheihnlich dass mehr kommen.
+
 ## Hütte
 
 Denkt daran: Maximal können 18 Personen am Fest übernachten.
@@ -28,7 +30,7 @@ Wer zuerst kommt, hat seinen Platz!
 
 <a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Übernachtung</a>
 
-Bitte ausfüllen bis spätestens Freitag, 24. Juli.
+Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
 
 ## Essen
 
@@ -41,16 +43,18 @@ Bitte ausfüllen bis spätestens Freitag, 24. Juli.
 
 ³ Exklusive Spanferkel
 
-<a href="https://forms.gle/4X8q21FVxjqiaXZPA" target="_blank">Zur Anmeldung für das Essen</a>
+<a href="https://forms.gle/4X8q21FVxjqiaXZPA" target="_blank">Zur Anmeldung für das Essen</a> (verbindlich)
 
-Bitte ausfüllen bis spätestens Freitag, 24. Juli.
+Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
 
 ## Getränke
 
 Wir machen einen grossen Einkauf für Bier und Met.
 Wir bringen die Getränke dann mit ans Event, so könnt ihr euch das Schleppen sparen.
 
-<a href="https://forms.gle/iD4FJFNALUbtFzcK7" target="_blank">Zur Getränke-Bestellung</a>
+<a href="https://forms.gle/iD4FJFNALUbtFzcK7" target="_blank">Zur Getränke-Bestellung</a> (verbindlich)
+
+Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
 
 ### Met
 
@@ -66,6 +70,16 @@ Natürlich können wir auch Bier einkaufen. Auch dies können wir kühl stellen!
 
 Ihr dürft auch alles selber mitnehmen.
 
-## Endabrechnung
+## Bezahlung
 
-Wenn wir am Ende zu viel Geld übrig haben sollten, gibt es natürlich etwas zurück!
+Sobald wir wissen wie viele Personen ans Fest kommen, schicke ich jedem den Endbetrag zu damit Ihr genau wisst wie viel Ihr bezahlen müsst.
+
+Bitte bezahlt danach im Voraus bis und mit 31. Juli!
+
+Schickt mir (Timo) das Geld entweder
+
+* per Twint
+
+oder
+
+* per Überweisung an UBS AG Zürich, Timo Schmid, CH63 0025 0250 7054 0140 M

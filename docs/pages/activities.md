@@ -6,7 +6,7 @@ permalink: pages/activities
 
 # Aktivitäten
 
-Zum Zeitvertreib haben wir uns folgende Zeitvertreibe ausgedacht
+Zum Zeitvertreib haben wir uns folgende Belustigungen ausgedacht
 
 ## Pfeilbogen schiessen
 

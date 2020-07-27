@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Kosten
+title: Anmeldung
 permalink: pages/signup
 ---
 

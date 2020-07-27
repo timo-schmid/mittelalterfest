@@ -10,7 +10,7 @@ Hier haben wir die Schätzung für die Kosten. Wir erwarten mindestens 10 Teilne
 
 ## Hütte
 
-Denkt daran: Maximal können 18 Personen am Fest übernachten.
+Denkt daran: Maximal können 18 Personen in der Hütte übernachten.
 
 Sagt uns deshalb bitte frühzeitig Bescheid, falls ihr übernachten wollt!
 Wer zuerst kommt, hat seinen Platz!

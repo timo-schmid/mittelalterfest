@@ -1,10 +1,10 @@
 ---
 layout: docs
 title: Kosten
-permalink: pages/cost
+permalink: pages/signup
 ---
 
-# Kosten
+# Anmeldung
 
 Hier haben wir die Schätzung für die Kosten. Wir erwarten mindestens 10 Teilnehmer, denken aber es ist recht warscheihnlich dass mehr kommen.
 
@@ -30,7 +30,7 @@ Wer zuerst kommt, hat seinen Platz!
 
 <a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Telinahme und Übernachtung</a> (verbindlich)
 
-Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
+Bitte ausfüllen bis spätestens Sonntag, 2. August.
 
 ## Essen
 
@@ -45,7 +45,7 @@ Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
 
 <a href="https://forms.gle/4X8q21FVxjqiaXZPA" target="_blank">Zur Anmeldung für das Essen</a> (verbindlich)
 
-Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
+Bitte ausfüllen bis spätestens Sonntag, 2. August.
 
 ## Getränke
 
@@ -54,7 +54,7 @@ Wir bringen die Getränke dann mit ans Event, so könnt ihr euch das Schleppen s
 
 <a href="https://forms.gle/iD4FJFNALUbtFzcK7" target="_blank">Zur Getränke-Bestellung</a> (verbindlich)
 
-Bitte ausfüllen bis spätestens Sonntag, 26. Juli.
+Bitte ausfüllen bis spätestens Sonntag, 2. August.
 
 ### Met
 
@@ -74,7 +74,7 @@ Ihr dürft auch alles selber mitnehmen.
 
 Sobald wir wissen wie viele Personen ans Fest kommen, schicke ich jedem den Endbetrag zu damit Ihr genau wisst wie viel Ihr bezahlen müsst.
 
-Bitte bezahlt danach im Voraus bis und mit 31. Juli!
+Bitte bezahlt danach im Voraus bis und mit 9. August!
 
 Schickt mir (Timo) das Geld entweder
 

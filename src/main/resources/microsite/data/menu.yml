@@ -8,8 +8,8 @@ options:
   - title: Aktivitäten
     url: pages/activities
 
-  - title: Kosten
-    url: pages/cost
+  - title: Anmeldung
+    url: pages/signup
     
   - title: Location
     url: pages/location

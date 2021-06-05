@@ -10,41 +10,25 @@ Generell gilt: Wir sorgen dafür dass niemand hungern muss. Wir kochen Zmorgen, 
 
 ## Morgenessen
 
-* Wir haben vor im Pizzaofen Brot zu backen
-* Speck
-* Eier
-* Konfitüre
-* Butter
-* Orangensaft
-* Instant-Kaffee
+TODO
 
-## Freitag Znacht: Fleischpot
+## Freitag Znacht
 
-* Versch. Grilladen
-* Kartoffeln
-* Zwiebeln
-* Speck
-* Reibkäse
+TODO
 
-Zum Dessert: Smores
+## Freitag Dessert
 
-## Samstag Zmittag: Dutch oven
+TODO
 
-* Schweinenacken
-* Zwiebeln
-* Speck
-* Steaksauce / Ketchup
+## Samstag Zmittag: Dutch oven?
 
-## Samstag Znacht: Spanferkel und Spitzkohleintopf
+TODO
 
-* Spanferkel
-* Spitzkohl
-* Pilze
-* Speck
-* Zwiebeln
+## Samstag Znacht: Spanferkel und Buffet
 
-## Samstag Dessert: Bratäpfel
+TODO
 
-* Äpfel
-* Rosinen
-* Butter
+## Samstag Dessert
+
+TODO
+

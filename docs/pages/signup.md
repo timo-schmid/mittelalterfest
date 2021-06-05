@@ -6,87 +6,54 @@ permalink: pages/signup
 
 # Anmeldung
 
-Hier haben wir die Schätzung für die Kosten. Wir erwarten mindestens 10 Teilnehmer, denken aber es ist recht warscheihnlich dass mehr kommen.
+Bitte meldet euch bis spätestens am 7. 2. 2021 bei einer der folgenden Personen an:
+- Timo
+- Alessandro
+- Michael
+- Ives
+- Silvan
 
 ## Hütte
 
-Denkt daran: Maximal können 18 Personen in der Hütte übernachten.
-
-Sagt uns deshalb bitte frühzeitig Bescheid, falls ihr übernachten wollt!
-Wer zuerst kommt, hat seinen Platz!
-
-
-| Anzahl Personen            |        10 |        12 |        15 |        18 |
-|:---------------------------|----------:|----------:|----------:|----------:|
-| Hütte¹                     |     60.00 |     50.00 |     40.00 |     33.35 |
-| Fackeln¹                   |      8.50 |      7.05 |      5.65 |      4.75 |
-| Übernachtung²              |      5.00                                     |
-| Subtotal ohne Übernachtung | **68.00** | **57.05** | **45.65** | **38.10** |
-| Subtotal mit Übernachtung  | **73.00** | **62.05** | **50.65** | **43.10** |
-
-¹ Wir rechnen so dass jeder Besucher bezahlt, ob mit oder ohne Übernachtung
-
-² Für das Laken, pro Person (egal ob 1 oder 2 Nächte)
-
-<a href="https://forms.gle/xVDro3bBDFeF6E1s8" target="_blank">Zur Anmeldung für die Telinahme und Übernachtung</a> (verbindlich)
-
-Bitte ausfüllen bis spätestens Sonntag, 2. August.
+TODO
 
 ## Essen
 
-| Anzahl Personen        |        10 |        12 |        15 |        18 |
-|:-----------------------|----------:|----------:|----------:|----------:|
-| Pro Frühstück          |      5.00                                     |
-| Essen Freitag          |     15.00                                     |
-| Essen Samstag³         |     25.00                                     |
-| Spanferkel (und Kohle) |     34.50 |     28.75 |     23.00 |     19.20 |
-
-³ Exklusive Spanferkel
-
-<a href="https://forms.gle/4X8q21FVxjqiaXZPA" target="_blank">Zur Anmeldung für das Essen</a> (verbindlich)
-
-Bitte ausfüllen bis spätestens Sonntag, 2. August.
+Für Speis und Trank vor Ort is gesorgt.
+Wie letztes Jahr auch sorgen wir für Zmorgen, Zmittag, und Znacht.
+Softdrinks und Bier sind vorhanden.
+Met können wir für euch Bestellen.
 
 ## Getränke
 
 Wir machen einen grossen Einkauf für Bier und Met.
-Wir bringen die Getränke dann mit ans Event, so könnt ihr euch das Schleppen sparen.
-
-<a href="https://forms.gle/iD4FJFNALUbtFzcK7" target="_blank">Zur Getränke-Bestellung</a> (verbindlich)
-
-Bitte ausfüllen bis spätestens Sonntag, 2. August.
-
-### Met
-
-Vor Ort hat es 2 Kühlschränke, deshalb kaufen wir Flaschen und können den Met auch kühlen.
-
-Bitte sagt uns, wie viele Flaschen wir für euch einkaufen sollen. Pro Flasche (0.75l) rechnen wir mit ca. 13.-.
 
 ### Bier
 
-Natürlich können wir auch Bier einkaufen. Auch dies können wir kühl stellen!
+Bier ist genug vorhanden. Wir kaufen Bier ein und dies ist im Preis inbegriffen.
+
+### Met
+
+Den Met könnt ihr bei uns bestellen. Wir machen eine grosse Bestellung bei
+![Drachenhort](http://www.drachenhort.ch).
+Wenn ihr auch Met bestellen möchtet, gebt uns hier die Bestellung durch:
+Bitte sagt uns, wie viele Flaschen wir für euch einkaufen sollen.
+
+TBD: Form Link
 
 ### Anderes
 
-Ihr dürft auch alles selber mitnehmen.
+Ihr dürft auch selber mitnehmen, was euer Herz begehrt.
+
+## Preis
+
+| Position                       | Kosten / Teilnehmer (CHF) |
+|:-------------------------------|--------------------------:|
+| Hütte, Holz, Fackeln, Diverses |                60.&mdash; |
+| Essen und Trinken              |                80.&mdash; |
+| Met                            |       separate Abrechnung |
 
 ## Bezahlung
 
-Sobald wir wissen wie viele Personen ans Fest kommen, schicke ich jedem den Endbetrag zu damit Ihr genau wisst wie viel Ihr bezahlen müsst.
-
-Bitte bezahlt danach im Voraus bis und mit 9. August!
-
-Schickt mir (Timo) das Geld entweder
-
-* per Twint
-
-oder
-
-* per Überweisung an:
-  
-  Timo Schmid
-  
-  CH63 0025 0250 7054 0140 M
-  
-  UBS AG Zürich
-  Zahlungsgrund: Name + Mittelalterfest
+Bitte bezahle so bald wie möglich nach der Anmeldung!
+Die Zahlung nimmt jene Person entgegen, bei der du dich Angemeldet hast!

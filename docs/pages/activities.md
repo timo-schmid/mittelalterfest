@@ -6,7 +6,7 @@ permalink: pages/activities
 
 # Aktivitäten
 
-Zum Zeitvertreib haben wir uns folgende Belustigungen ausgedacht
+Zum Zeitvertreib haben wir uns folgende Belustigungen ausgedacht:
 
 ## Pfeilbogen schiessen
 
@@ -16,9 +16,6 @@ Zum Zeitvertreib haben wir uns folgende Belustigungen ausgedacht
 
 ![Axtwerfen](https://areffekt.com/wp-content/uploads/2016/03/axtwerfen-1.jpg)
 
-## Kubb
-
-![Kubb](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kubbwiki.JPG/320px-Kubbwiki.JPG?uselang=de)
 
 ## Gesellschaftsspiele
 

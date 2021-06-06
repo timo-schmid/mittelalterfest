@@ -8,27 +8,60 @@ permalink: pages/food
 
 Generell gilt: Wir sorgen dafür dass niemand hungern muss. Wir kochen Zmorgen, Zmittag und Znacht!
 
-## Morgenessen
-
-TODO
+Das Brot sowie das Spanferkel wird Glutenfrei zubereitet.  
+Für andere Unverträglichkeiten o.Ä. muss selbst für Alternativen gesorgt werden (Vegan/Vegetarier/Pescetarier).
 
 ## Freitag Znacht
 
-TODO
+* Fleischpot
+* Grillwürste
 
 ## Freitag Dessert
 
-TODO
+* Smores
 
-## Samstag Zmittag: Dutch oven?
+## Samstag Zmorge
 
-TODO
+* Butter
+* Ufschnitt, Schinke
+* Käse
+* Honig / Konfi
+* Milch
+* Müesli
+* Joghurt
+
+## Samstag Zmittag: Topf des Schweden
+
+* Speck
+* Zwiebeln
+* Speck
+* Schweinenacken
+* Gebackenes Brot
 
 ## Samstag Znacht: Spanferkel und Buffet
 
-TODO
+* Spanferkel
+* Kohl
+* Speck
+* Zwiebeln
+* Würste & Grillfleisch
 
-## Samstag Dessert
+## Samstag Dessert: Bratäpfel
 
-TODO
+* Äpfel
+* Rosinen
+* Butter
 
+## Seitenschmaus
+
+* Nüsse
+* Früchte & Äpfel
+* Chips * Salziges
+
+## Für den Durst
+
+* Bier
+* Süssgetränke
+* Fruchtsaft
+* Kaffee
+* Tee

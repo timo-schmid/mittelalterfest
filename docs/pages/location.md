@@ -27,3 +27,5 @@ Die Fahrt bis ganz zur Hütte ist leider nicht erlaubt (nur für uns Organisator
 Bitte parkiert bei "weitere Parkplätze Birmenstal" und geht den Rest zu Fuss:
 
 ![Parkplatz](https://giesental.nfh.ch/wp-content/uploads/sites/46/2020/10/lage-1.jpg)
+
+Falls keine Parkplätze verfügbar sind, muss am Bahnhof parkiert werden (gegen Gebühren).

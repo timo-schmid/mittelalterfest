@@ -6,15 +6,21 @@ permalink: pages/faq
 
 # Fragen und Antworten
 
+## Welches Datum nochmals?
+
+Vom 13.08.2021 => 15.08.2021
+
 ## Muss ich verkleidet kommen?
 
 Nein. Verkleidung ist nicht notwendig &mdash; aber gern gesehen!
 
 ## Kann ich vor Ort zelten?
 
-Sicher! Du musst auch keine 5 Franken für das Laken bezahlen!
+Sicher!
 
 ## Hat es im Haus duschen?
+
+Im Haus sind 2 Duschen welche genutzt werden können.
 
 ## Kann ich mein eigenes Essen und Getränke mitbringen?
 
@@ -24,8 +30,8 @@ Ja, natürlich!
 
 * Mittelalter-Stimmung!
 * Mittelalterliche Bekleidung (wer möchte)
-* Schlafsack (falls du übernachtest)
-* Eigene Spiele
+* Schlafsack
+* Eigene Spiele (Boardgames sind gerne gesehen!)
 
 ## Kann ich noch jemanden Mitbringen?
 

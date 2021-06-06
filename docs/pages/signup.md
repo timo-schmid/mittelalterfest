@@ -6,7 +6,7 @@ permalink: pages/signup
 
 # Anmeldung
 
-Bitte meldet euch bis spätestens am 7. 2. 2021 bei einer der folgenden Personen an:
+Bitte meldet euch bis spätestens am 02.07.2021 bei einer der folgenden Personen an:
 - Timo
 - Alessandro
 - Michael
@@ -15,7 +15,7 @@ Bitte meldet euch bis spätestens am 7. 2. 2021 bei einer der folgenden Personen
 
 ## Hütte
 
-TODO
+Siehe [Location](https://timo-schmid.github.io/mittelalterfest/pages/location)
 
 ## Essen
 
@@ -24,9 +24,12 @@ Wie letztes Jahr auch sorgen wir für Zmorgen, Zmittag, und Znacht.
 Softdrinks und Bier sind vorhanden.
 Met können wir für euch Bestellen.
 
+Weitere Informationen unter [Festschmaus](https://timo-schmid.github.io/mittelalterfest/pages/food)
+
 ## Getränke
 
 Wir machen einen grossen Einkauf für Bier und Met.
+Am Durst solltest du nicht leiden!
 
 ### Bier
 
@@ -39,7 +42,7 @@ Den Met könnt ihr bei uns bestellen. Wir machen eine grosse Bestellung bei
 Wenn ihr auch Met bestellen möchtet, gebt uns hier die Bestellung durch:
 Bitte sagt uns, wie viele Flaschen wir für euch einkaufen sollen.
 
-TBD: Form Link
+[Met Bestellung](https://forms.gle/4LtDy3FN2hKNdwL96)
 
 ### Anderes
 
@@ -55,5 +58,5 @@ Ihr dürft auch selber mitnehmen, was euer Herz begehrt.
 
 ## Bezahlung
 
-Bitte bezahle so bald wie möglich nach der Anmeldung!
+Bitte bezahle so bald wie möglich **vor** der Anmeldung!
 Die Zahlung nimmt jene Person entgegen, bei der du dich Angemeldet hast!

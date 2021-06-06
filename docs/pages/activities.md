@@ -16,15 +16,12 @@ Zum Zeitvertreib haben wir uns folgende Belustigungen ausgedacht:
 
 ![Axtwerfen](https://areffekt.com/wp-content/uploads/2016/03/axtwerfen-1.jpg)
 
-
 ## Gesellschaftsspiele
 
 ![Spiele](http://www.cliquenabend.de/images/db/22343_360x240.jpg)
 
-Wir bringen einige Gesellschaftsspiele mit:
-* Citadels
-* Puerto Rico
-* Hast du eine gute Idee? Bring einfach dein Spiel mit!
+Wir bringen einige Gesellschaftsspiele mit.  
+* Hast du selbst ein gutes Boardgame? Bring es einfach mit!
 
 ## Kochen
 
